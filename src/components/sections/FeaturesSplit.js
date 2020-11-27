@@ -50,7 +50,7 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
+    title: 'S.M.A.R.T. Decluttering',
     paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
   };
 
@@ -67,13 +67,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  AR CAMERA RULER
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+               Quick Everyday Measurements
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                The AP Ruler app works by your camera. All you need to open the camera and move it toward the objective you want to measure. As per user experience, this app’s measurements are correct. Even if it gives you an estimate, it is still best because of its advance measure options.
                   </p>
               </div>
               <div className={
@@ -93,13 +93,17 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  IMAGE TO MASS
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                Estimating the Mass of an Object from Its Image
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Successful robotic manipulation of real-world objects requires an understanding of the physical properties of these objects. We propose a model for
+estimating one such physical property, mass, from an object's image. We collect a
+large dataset of online product information containing images, sizes, and weights.
+We compare several baseline models for the image-to-mass problem that were
+trained on this dataset. 
                   </p>
               </div>
               <div className={
@@ -119,13 +123,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Smart Inventory Management
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  We let you take over. You create the rules.
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                You get to decide what goes and what stays. If you love it, that may be reason enough to keep something.
                   </p>
               </div>
               <div className={
